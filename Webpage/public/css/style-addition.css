@@ -1,0 +1,31 @@
+body .name span {
+    font-size: 30px;
+}
+
+body .ui_box__inner .progress_size_filler {
+    width: 100%;
+    margin-top: 10px;
+    height: 6px;
+    margin-bottom: 15px;
+}
+
+.margin_space_bottom {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 8px;
+}
+
+.margin_space_top {
+    display: flex;
+    flex-direction: row;
+    padding-top: 8px;
+}
+
+.box_left_margin {
+    margin-left: 10px;
+}
+
+.box_right_margin {
+    margin-right: 10px;
+}
+
